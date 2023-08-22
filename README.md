@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @syseok
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning React.js
 - 📫 How to reach me syseok6@gmail.com
 
 <!---
